@@ -1,0 +1,4 @@
+../Inc/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/pwm.c:9:6:PWM_Init	1
+../Src/pwm.c:45:6:SwitchInit	1
+../Src/pwm.c:63:6:EXTI0_IRQHandler	1
